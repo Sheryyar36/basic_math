@@ -18,6 +18,6 @@ print(num1, '*', num2, '=', num1 * num2, '\n')
 if num4 != 0:
     print(num3, '/', num4, '=', num3 / num4, '\n')
 else:
-    print(num3, '/', num4, '= Error: cannot divid by zero\n')
+    print(num3, '/', num4, '= Error: cannot divide by zero\n')
 
-print('Thank you for using the basic_math Python program')
+print('Thank you for using the basic_math Python program\n')
